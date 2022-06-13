@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# RoboMates
+RoboMates is a React App creating an NFT platform for your robots!
+
+## Screenshots
+![robomates-1](https://user-images.githubusercontent.com/89755810/173290791-fc38bc18-99e9-4b42-8ca9-5bf2a3ff5ab5.png)
+![robomates-2](https://user-images.githubusercontent.com/89755810/173290822-1c749205-220d-4f8b-aa57-79bca337ee10.png)
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -39,7 +46,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
