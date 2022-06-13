@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboMates/static/css/main.fe14e49f.css",
+    "main.js": "/RoboMates/static/js/main.d1667204.js",
+    "static/js/787.4f137098.chunk.js": "/RoboMates/static/js/787.4f137098.chunk.js",
+    "static/media/SEGA.woff": "/RoboMates/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboMates/index.html",
+    "main.fe14e49f.css.map": "/RoboMates/static/css/main.fe14e49f.css.map",
+    "main.d1667204.js.map": "/RoboMates/static/js/main.d1667204.js.map",
+    "787.4f137098.chunk.js.map": "/RoboMates/static/js/787.4f137098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe14e49f.css",
+    "static/js/main.d1667204.js"
+  ]
+}
