@@ -4,6 +4,7 @@ RoboMates is a React App creating an NFT platform for your robots!
 ## Screenshots
 ![robomates-1](https://user-images.githubusercontent.com/89755810/173291293-162e6fe4-f32e-4a27-a942-93ed239d24f1.png)
 ![robomates-2](https://user-images.githubusercontent.com/89755810/173291041-bf7e7627-9951-4187-ab8b-429b90a50372.png)
+![robomates-3](https://user-images.githubusercontent.com/89755810/173291446-7489c6d1-16a8-4fdc-83e1-4ca8e2dec47b.png)
 
 ### Getting Started with Create React App
 
